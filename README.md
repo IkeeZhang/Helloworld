@@ -1,2 +1,4 @@
 # Helloworld
-a new repository
+
+Hello world!
+I start to use Github today.
